@@ -1,5 +1,5 @@
 # Chat web
-## With socket.io, react.js and express
+## With socket.io, react.js and express and tailwindcss
 
 ___
 ### Screenshots
